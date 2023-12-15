@@ -1,1 +1,2 @@
 This is some content from branch_A.
+This is some content from branch_B.
